@@ -1,12 +1,3 @@
-"""
-- generate a random number 1- 20 
-- ask the user for their name 
-- tell the user that they have to guess a number 1-20
-- they only have 6 trys.
-- high or low 
-- if equals tell them how many trys it took
-- if never, tell them the number.
-"""
 import random
 import sys
 magic_number = random.randint(1, 20)
